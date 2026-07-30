@@ -16,15 +16,15 @@ Data Science Jobs Salaries.csv
 
 ## 📷 Experience Level Distribution\
 
-![Experience Level](experience_level.png)
+<img src="experience_level.png" width="500">
 
 ## 📊 Salary Distribution
 
-![Salary Distribution](salary_distribution.png)
+<img src="salary_distribution.png" width="500">
 
 ## 🔥 Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+<img src="correlation_heatmap.png" width="500">
 
 ## 📊 Analysis Performed
 - Data Loading
